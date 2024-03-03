@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sumit Sharma from IITD(Maths and Computing).
-- 😊 I am maths enthusiast like problem solving
+- 😊 I am maths enthusiast and like problem solving
 - ❤️ I love watching movies and listening to music.
 - 💞️ If you love code and want to collaborate on some project reach me out.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kumar-sharma-084bb6160/)
