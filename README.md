@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iamsumitxyz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sumit Sharma from IITD(Maths and Computing).
+- 😊 I am maths enthusiast like problem solving
+- ❤️ I love watching movies and listening to music.
+- 💞️ If you love code and want to collaborate on some project reach me out.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sumit-kumar-sharma-084bb6160/)
 
 <!---
 iamsumitxyz/iamsumitxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
