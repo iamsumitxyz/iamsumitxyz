@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit Sharma from IITD(Maths and Computing).
+- 👋 Hi, I’m Sumit Sharma Senior @IITD(Maths and Computing).
 - 😊 I am maths enthusiast and like problem solving
 - ❤️ I love watching movies and listening to music.
 - 💞️ If you love code and want to collaborate on some project reach me out.
