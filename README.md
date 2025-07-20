@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sumit Sharma Senior @IITD(Maths and Computing).
+- 👋 Hi, I’m Sumit Sharma Software Engineer @NMTronics India PVT. LTD.
+- 🎓Graduated from IIT Delhi in Mathematics and Computing(2025)
 - 😊 I am maths enthusiast and like problem solving
 - ❤️ I love watching movies playing chess and listening to music.
 - 💞️ If you love code and want to collaborate on some project reach me out.
